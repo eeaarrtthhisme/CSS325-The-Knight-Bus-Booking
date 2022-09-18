@@ -1,0 +1,6 @@
+# CSS325-The-Knight-Bus-Booking
+Database Management System Course Project
+
+The Knight Bus is the long-trip bus in the Harry Potter movie series. The Knight Bus Booking is the long-trip bus booking system for wizards and witches. Because of the long-trip, this bus has beds instead of seats. Our Knight Bus is a 3-floor bus, with three bed types. There is a simple bed, a deluxe bed with hot chocolate, and a premium bed with a hot water bottle and a toothpaste in the color of their choice. The route can be chosen from our road map and the departure time can be chosen by the bus schedule list, grouped by the bus direction. The total fee is calculated by the bed type and route. The upper floors are more expensive than the lower floor since they are more private than the lower one. The payment system is like paying by credit card in the real world but we accept only wizarding world money which means that our users need to have an account in wizarding world bank. 
+To book a bus in The Knight Bus Booking, users need to sign up for an account. Only users can book a bus. Users can book only a bed per booking. After users complete their payment, our staff will check it and update the payment status. The booking system only gives users a ticket ID while the real ticket will be sent by our owl mail. 
+
